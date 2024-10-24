@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+A-1// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 /// @title Hello World Contract
@@ -11,7 +11,7 @@ contract HelloWorld {
     }
 }
 
-// SPDX-License-Identifier: MIT
+A-2// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 /// @title Simple Storage Contract
@@ -34,7 +34,7 @@ contract SimpleStorage {
 
 
 
-// SPDX-License-Identifier: MIT
+A-3// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 /// @title Greeting Contract
@@ -55,7 +55,7 @@ contract Greeting {
     }
 }
 
-// SPDX-License-Identifier: MIT
+A-4// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 /// @title Simple Counter Contract
@@ -97,7 +97,7 @@ contract NameStorage {
 }
 
 
-// SPDX-License-Identifier: MIT
+A-5// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 /// @title Basic Voting Contract
@@ -142,7 +142,7 @@ contract OwnerAccess {
     }
 }
 
-// SPDX-License-Identifier: MIT
+A-6// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 
@@ -158,7 +158,7 @@ contract EventLogging {
     }
 }
 
-// SPDX-License-Identifier: MIT
+A-7// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 /// @title Simple Ledger Contract
